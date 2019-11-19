@@ -1,3 +1,6 @@
+//Omar Abuabah, Jessie Ramseyer, Brandon Tu
+//Group 468
+
 int colourReading()
 {
 	int readingsCount[8] = {0,0,0,0,0,0,0,0};
