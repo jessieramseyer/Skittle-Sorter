@@ -215,4 +215,5 @@ task main()
 
 	display(time1[T2], skittleCount, coloursCount);
 	wait1Msec(20000);
+
 }
